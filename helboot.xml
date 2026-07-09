@@ -25,7 +25,7 @@
   <PostArgs/>
   <DonateText/>
   <DonateLink/>
-  <TemplateURL>https://raw.githubusercontent.com/Kreuzbube88/helboot/main/deploy/unraid/helboot.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/Kreuzbube88/heltemplates/main/helboot.xml</TemplateURL>
 
   <Config Name="Data" Target="/data" Default="/mnt/user/appdata/helboot" Mode="rw"
           Description="HELBOOT state: database, generated boot assets, logs, secrets."
